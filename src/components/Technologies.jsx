@@ -10,11 +10,11 @@ const content = {
     categorias: [
       {
         titulo: "Back-end",
-        skills: ["C#", ".NET", "ASP.NET Core", "NodeJS", "APIs REST"],
+        skills: ["C#", ".NET", "ASP.NET Core", "NodeJS", "Java"],
       },
       {
         titulo: "Front-end",
-        skills: ["React", "TypeScript", "JavaScript", "Tailwind CSS", "Vite", "Angular"],
+        skills: ["React", "TypeScript", "JavaScript", "Tailwind CSS", "Angular"],
       },
       {
         titulo: "Banco de dados",
