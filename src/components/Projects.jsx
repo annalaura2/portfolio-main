@@ -34,7 +34,7 @@ const content = {
         titulo: "Odonto Clinic",
         descricao:
           "Aplicação front-end desenvolvida para uma clínica odontológica utilizando React, JavaScript, HTML e CSS. O projeto contempla um layout responsivo, componentes reutilizáveis e uma interface moderna, com foco em boas práticas de desenvolvimento, organização do código e experiência do usuário na apresentação dos serviços e informações da clínica.",
-        link: "https://github.com/pedrogattosch/populacao-toledo",
+        link: "https://github.com/annalaura2/odonto-clinic",
         tecnologias: ["React", "JavaScript", "HTML", "CSS"],
       },
       {
@@ -48,7 +48,7 @@ const content = {
         titulo: "WikiMoedas",
         descricao:
           "Wikimoeda é um projeto sobre o mundo financeiro, o objetivo é manter os usuários atualizados com as últimas cotações de moedas, notícias financeiras e informações detalhadas sobre diversos investimentos.",
-        link: "wikimoeda-murex.vercel.app",
+        link: "https://github.com/annalaura2/wikimoeda",
         tecnologias: ["React", "TypeScript", "tailwindcss"],
       },
     ],
@@ -77,7 +77,7 @@ const content = {
         titulo: "Odonto Clinic",
         descricao:
           "Front-end application developed for a dental clinic using React, JavaScript, HTML, and CSS. The project features a responsive layout, reusable components, and a modern interface, following front-end best practices with a strong focus on code organization, maintainability, and user experience when presenting the clinic's services and information.",
-        link: "https://github.com/pedrogattosch/populacao-toledo",
+        link: "https://github.com/annalaura2/odonto-clinic",
         tecnologias: ["React", "JavaScript", "HTML", "CSS"],
       },
       {
@@ -91,7 +91,7 @@ const content = {
         titulo: "WikiMoedas",
         descricao:
           "Wikimoeda is a project focused on the financial world; its goal is to keep users up to date with the latest currency exchange rates, financial news, and detailed information on various investments.",
-        link: "wikimoeda-murex.vercel.app",
+        link: "https://github.com/annalaura2/wikimoeda",
         tecnologias: ["React", "TypeScript", "tailwindcss"],
       },
     ],
