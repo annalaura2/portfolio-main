@@ -44,6 +44,13 @@ const content = {
         link: "https://github.com/annalaura2/api-java-main",
         tecnologias: ["Java", "Spring Boot", "Spring Data JPA"],
       },
+      {
+        titulo: "WikiMoedas",
+        descricao:
+          "Wikimoeda é um projeto sobre o mundo financeiro, o objetivo é manter os usuários atualizados com as últimas cotações de moedas, notícias financeiras e informações detalhadas sobre diversos investimentos.",
+        link: "wikimoeda-murex.vercel.app",
+        tecnologias: ["React", "TypeScript", "tailwindcss"],
+      },
     ],
   },
   en: {
@@ -79,6 +86,13 @@ const content = {
           "Backend application developed using Spring Boot, Spring Data JPA, and the H2 database, implementing a RESTful API with full CRUD operations. The project follows a layered architecture and software development best practices, emphasizing clean code, maintainability, and efficient data persistence.",
         link: "https://github.com/annalaura2/api-java-main",
         tecnologias: ["Java", "Spring Boot", "Spring Data JPA"],
+      },
+      {
+        titulo: "WikiMoedas",
+        descricao:
+          "Wikimoeda is a project focused on the financial world; its goal is to keep users up to date with the latest currency exchange rates, financial news, and detailed information on various investments.",
+        link: "wikimoeda-murex.vercel.app",
+        tecnologias: ["React", "TypeScript", "tailwindcss"],
       },
     ],
   },
