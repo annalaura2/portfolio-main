@@ -87,7 +87,7 @@ function Header() {
             ))}
             <li>
               <a
-                href="https://pedrogattosch.hashnode.dev/"
+                href="https://dev.to/annalaura2"
                 target="_blank"
                 rel="noopener noreferrer"
                 className={navItemClass}

@@ -2,6 +2,7 @@ import GitHub from "../assets/icons/github.svg";
 import LinkedIn from "../assets/icons/linkedin.svg";
 import Foto from "../assets/images/foto-perfil.jpg";
 import { useLanguage } from "../hooks/useLanguage";
+import Resumo from  "../assets/icons/file-text.svg";
 import {
   accentBadgeClass,
   elevatedSecondaryActionClass,
@@ -36,10 +37,16 @@ const socialLinks = [
     labelKey: "linkedin",
   },
   {
-    href: "https://github.com/annalaura2",
+    href: "https://drive.google.com/file/d/19Kju5RB-xy6W5tp44KpRzySBqeb_tJjR/view?usp=sharing",
     icon: GitHub,
     alt: "GitHub",
     labelKey: "github",
+  },
+  {
+    href: "https://drive.google.com/file/d/19Kju5RB-xy6W5tp44KpRzySBqeb_tJjR/view?usp=sharing",
+    icon: Resumo,
+    alt: "Resumo",
+    labelKey: "Resumo",
   },
 ];
 
